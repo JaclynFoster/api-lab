@@ -1,0 +1,14 @@
+h2 {
+    color: teal;
+    font-size: xx-large;
+}
+
+#resident-btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: #7fffd4;
+    color: goldenrod;
+    font-size: larger;
+}
+
